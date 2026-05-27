@@ -1,0 +1,208 @@
+components.md
+  # Professional Workstation PC - Components
+
+## CPU
+- Model: Intel Core i5-12500
+- Cores/Threads: 6 Cores / 12 Threads
+- Base Clock: 3.0 GHz
+- Boost Clock: 4.6 GHz
+- TDP: 65W
+
+## Motherboard
+- Model: MSI PRO B760M-P DDR4
+- Chipset: Intel B760
+- Form Factor: Micro-ATX
+- Memory Slots: 2x DDR4 DIMM
+- Storage Slots: M.2 NVMe + SATA
+
+## RAM
+- Model: Corsair Vengeance LPX
+- Type: DDR4
+- Capacity: 32GB (2x16GB)
+- Frequency: 3600 MHz
+
+## Storage
+- Model: Crucial P310
+- Type: NVMe SSD
+- Capacity: 1TB
+- Interface: PCIe Gen4
+
+## GPU
+- Integrated Intel UHD Graphics 770
+- VRAM: Shared Memory
+- TDP: Included in CPU
+
+## Power Supply
+- Model: MSI MAG A650BN
+- Power: 650W
+- Certification: 80+ Bronze
+
+## Case
+- Model: be quiet! PURE BASE 600
+- Form Factor: ATX Mid Tower
+- Cooling: Optimized airflow with silent design
+
+## Monitor
+- Model: MSI PRO MP273A
+- Size: 27"
+- Resolution: 1920x1080
+- Panel Type: IPS
+- Refresh Rate: 100Hz
+
+## Keyboard
+- Model: Logitech Signature K650
+
+## Mouse
+- Model: Logitech Signature M650
+
+justification.md
+  # Professional Workstation PC - Justification
+
+## CPU
+The Intel Core i5-12500 was selected because it provides strong multitasking and productivity performance.
+Its 6 cores and 12 threads are suitable for programming, office applications, and professional work.
+
+### Alternative Component
+Intel Core i5-12600 offers slightly better performance and higher clock speeds.
+
+### Future Upgrade
+Intel Core i7-14700K can significantly improve multitasking and heavy workload performance.
+
+---
+
+## Motherboard
+The MSI PRO B760M-P DDR4 motherboard was selected because it supports modern Intel processors and DDR4 memory.
+It provides stable performance and enough connectivity for workstation use.
+
+### Alternative Component
+ASRock B760M Pro RS offers additional expansion options and improved VRM cooling.
+
+### Future Upgrade
+ASUS PRIME B760M-A WIFI supports DDR5 memory and better connectivity options.
+
+---
+
+## RAM
+32GB DDR4 3600MHz memory was selected because it is ideal for multitasking and professional software.
+The higher frequency improves system responsiveness.
+
+### Alternative Component
+Kingston Fury Beast 32GB DDR4 provides similar performance and reliability.
+
+### Future Upgrade
+64GB DDR5 memory would improve performance for virtual machines and heavier workloads.
+
+---
+
+## Storage
+The Crucial P310 1TB NVMe SSD was selected because it provides fast boot speeds and quick file transfers.
+It is suitable for professional applications and large project files.
+
+### Alternative Component
+WD Blue SN5100 offers similar capacity and performance.
+
+### Future Upgrade
+A 2TB Samsung 990 EVO Plus SSD would provide more storage and faster transfer speeds.
+
+---
+
+## GPU
+The system uses integrated Intel UHD Graphics because a dedicated GPU is not required for office work and programming.
+This reduces overall system cost and power consumption.
+
+### Alternative Component
+A low-end dedicated GPU could be added for multi-monitor setups.
+
+### Future Upgrade
+An RTX graphics card could be added later for 3D rendering or GPU acceleration.
+
+---
+
+## Power Supply
+The MSI MAG A650BN 650W PSU was selected because it provides stable power delivery and enough capacity for future upgrades.
+
+### Alternative Component
+Corsair CX650 offers similar wattage and reliability.
+
+### Future Upgrade
+Seasonic CORE GX 650W 80+ Gold would improve efficiency and long-term reliability.
+
+---
+
+## Case
+The be quiet! PURE BASE 600 case was selected because of its silent design and good airflow.
+It also provides enough space for future upgrades.
+
+### Alternative Component
+ASUS Prime AP303 offers a more modern design and improved airflow.
+
+### Future Upgrade
+A larger airflow-focused case could improve cooling performance.
+
+---
+
+## Monitor
+The MSI PRO MP273A monitor was selected because of its IPS panel and comfortable 27-inch size.
+It is suitable for productivity and long working sessions.
+
+### Alternative Component
+MSI PRO MP2412 offers a smaller and more affordable alternative.
+
+### Future Upgrade
+Dell P2725D with 1440p resolution would improve image quality and workspace.
+
+---
+
+## Keyboard and Mouse
+The Logitech Signature K650 and M650 were selected because they provide comfortable and quiet operation.
+They are suitable for long office and programming sessions.
+
+### Alternative Component
+Logitech Signature Slim K950 offers a slimmer design.
+
+### Future Upgrade
+Logitech MX Keys S and MX Master 3S provide premium productivity features.
+
+  prices-bg.md
+  # Professional Workstation PC - Prices from Bulgarian Store
+
+## CPU
+Intel Core i5-12500 - 230€
+https://ardes.bg/product/intel-core-i5-12500-3-0ghz-bx8071512500srl5v-242511
+
+## Motherboard
+MSI PRO B760M-P DDR4 - 92€
+https://ardes.bg/product/msi-pro-b760m-p-ddr4-911-7e02-001-307974
+
+## RAM
+Corsair Vengeance LPX 32GB DDR4 3600 - 299€
+https://ardes.bg/product/2x16gb-ddr4-3600-corsair-vengeance-lpx-cmk32gx4m2d3600c18-260404
+
+## Storage
+Crucial P310 1TB SSD - 189€
+https://ardes.bg/product/1tb-ssd-crucial-p310-ct1000p310ssd8-437548
+
+## Power Supply
+MSI MAG A650BN 650W - 60€
+https://ardes.bg/product/650w-msi-mag-a650bn-306-7zp2b11-ce0-243423
+
+## Case
+be quiet! PURE BASE 600 - 104€
+https://pcpartpicker.com/product/PNTrxr/be-quiet-pure-base-600-atx-mid-tower-case-bg021
+
+## Monitor
+MSI PRO MP273A - 115€
+https://ardes.bg/product/27-msi-mag-27c6f-9s6-3ce11m-001-418875
+
+## Keyboard
+Logitech Signature K650 - 50€
+https://ardes.bg/product/logitech-signature-k650-cheren-920-010945-287344
+
+## Mouse
+Logitech Signature M650 - 45€
+https://ardes.bg/product/logitech-signature-m650-grafiten-910-006253-250516
+
+---
+
+## Total Price
+1184€
