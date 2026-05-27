@@ -1,0 +1,236 @@
+components.md
+  # Gaming PC - Components
+
+## CPU
+- Model: AMD Ryzen 5 7600X
+- Cores/Threads: 6 Cores / 12 Threads
+- Base Clock: 4.7 GHz
+- Boost Clock: 5.3 GHz
+- TDP: 105W
+
+## CPU Cooler
+- Model: Thermalright Aqua Elite 360 V3
+- Type: Liquid Cooler (360mm)
+- Cooling: Triple Fan Radiator
+- RGB Support: Yes
+
+## Motherboard
+- Model: ASRock B650 Steel Legend WiFi
+- Chipset: AMD B650
+- Form Factor: ATX
+- Memory Slots: 4x DDR5 DIMM
+- Storage Slots: M.2 NVMe + SATA
+
+## RAM
+- Model: Kingston Fury Beast AMD EXPO
+- Type: DDR5
+- Capacity: 32GB
+- Frequency: 6000 MHz
+
+## Storage
+- Model: ADATA HV620S
+- Type: External HDD
+- Capacity: 2TB
+- Interface: USB 3.2
+
+## GPU
+- Model: Zotac GeForce RTX 5060 Twin Edge OC
+- VRAM: 8GB GDDR6
+- TDP: 145W
+- Features: DLSS 4, Ray Tracing
+
+## Power Supply
+- Model: MSI MAG A850GL
+- Power: 850W
+- Certification: 80+ Gold
+
+## Case
+- Model: Fractal Design Pop Air RGB
+- Form Factor: ATX Mid Tower
+- Cooling: Mesh airflow design with RGB fans
+
+## Monitor
+- Model: Alienware AW3425DWM
+- Size: 34"
+- Resolution: 3440x1440
+- Panel Type: VA
+- Refresh Rate: 180Hz
+
+## Keyboard
+- Model: SteelSeries Apex 3
+
+## Mouse
+- Model: Razer Basilisk V3
+
+justification.md
+  # Gaming PC - Justification
+
+## CPU
+The AMD Ryzen 5 7600X was selected because it provides excellent gaming performance and high clock speeds.
+Its 6 cores and 12 threads are suitable for gaming, streaming, and multitasking.
+
+### Alternative Component
+AMD Ryzen 5 7600 offers similar gaming performance with lower power consumption.
+
+### Future Upgrade
+AMD Ryzen 7 7800X3D would significantly improve gaming performance because of its 3D V-Cache technology.
+
+---
+
+## CPU Cooler
+The Thermalright Aqua Elite 360 V3 was selected because it provides strong cooling performance for high-frequency gaming CPUs.
+The 360mm radiator helps maintain low temperatures during gaming sessions.
+
+### Alternative Component
+ARCTIC Liquid Freezer III Pro 420 offers larger radiator size and improved cooling performance.
+
+### Future Upgrade
+MSI MAG CORELIQUID E360 provides premium cooling and RGB features.
+
+---
+
+## Motherboard
+The ASRock B650 Steel Legend WiFi motherboard was selected because it supports modern AMD Ryzen processors and DDR5 memory.
+It also includes WiFi connectivity and multiple M.2 storage slots.
+
+### Alternative Component
+ASUS ROG STRIX B850-F Gaming WiFi offers stronger VRM cooling and additional premium features.
+
+### Future Upgrade
+A higher-end B850 motherboard would improve future CPU upgrade support.
+
+---
+
+## RAM
+32GB DDR5 6000MHz memory was selected because it provides high-speed performance for gaming and streaming.
+DDR5 memory improves responsiveness and loading times.
+
+### Alternative Component
+G.SKILL Flare X5 DDR5 6000 provides similar gaming performance.
+
+### Future Upgrade
+64GB DDR5 memory could improve heavy multitasking and content creation workloads.
+
+---
+
+## Storage
+The ADATA HV620S 2TB HDD was selected because it provides additional storage space for games and media files.
+Its USB 3.2 interface allows fast external connectivity.
+
+### Alternative Component
+Crucial P3 Plus 2TB NVMe SSD offers much faster loading speeds.
+
+### Future Upgrade
+Crucial T500 2TB NVMe SSD would improve game loading and overall system responsiveness.
+
+---
+
+## GPU
+The Zotac RTX 5060 8GB graphics card was selected because it provides strong 1440p gaming performance and supports DLSS 4 technology.
+It is suitable for modern games and streaming.
+
+### Alternative Component
+ASRock Radeon RX 9060 XT 16GB provides more VRAM and competitive gaming performance.
+
+### Future Upgrade
+ASUS Radeon RX 9060 XT PRIME OC or RTX 5070 Ti would improve performance in high-resolution gaming.
+
+---
+
+## Power Supply
+The MSI MAG A850GL 850W PSU was selected because it provides enough power for gaming components and future upgrades.
+Its 80+ Gold certification improves power efficiency.
+
+### Alternative Component
+Super Flower Leadex III Gold offers similar efficiency and reliability.
+
+### Future Upgrade
+Corsair RM750e provides premium build quality and quiet operation.
+
+---
+
+## Case
+The Fractal Design Pop Air RGB case was selected because it provides excellent airflow and modern RGB aesthetics.
+Its mesh front panel improves cooling performance.
+
+### Alternative Component
+The magenta version of the same case offers different aesthetics with similar airflow.
+
+### Future Upgrade
+MONTECH KING 95 PRO ARGB offers additional airflow and interior space.
+
+---
+
+## Monitor
+The Alienware AW3425DWM monitor was selected because of its ultrawide 3440x1440 resolution and 180Hz refresh rate.
+It provides immersive gaming experience and smooth gameplay.
+
+### Alternative Component
+MSI MAG 274CQF offers a more compact 27-inch gaming display.
+
+### Future Upgrade
+LG UltraGear OLED 240Hz monitor would improve image quality and motion clarity.
+
+---
+
+## Keyboard and Mouse
+The SteelSeries Apex 3 keyboard and Razer Basilisk V3 mouse were selected because they are designed for gaming performance and comfort.
+They provide RGB lighting, programmable controls, and fast response times.
+
+### Alternative Component
+Redragon Antonium Pro K728 PRO and SteelSeries Rival 3 Gen2 provide wireless gaming features.
+
+### Future Upgrade
+Logitech G515 LIGHTSPEED TKL and Logitech G502 X LIGHTSPEED offer premium wireless gaming performance.
+
+prices-bg.md
+# Gaming PC - Prices from Bulgarian Store
+
+## CPU
+AMD Ryzen 5 7600X - 195€
+https://ardes.bg/product/amd-ryzen-5-7600x-4-7ghz-100-100000593wof-293577
+
+## CPU Cooler
+Thermalright Aqua Elite 360 V3 - 67€
+https://ardes.bg/product/thermalright-aqua-elite-360-v3-aqua-elite-360-bk-argb-v3-458247
+
+## Motherboard
+ASRock B650 Steel Legend WiFi - 179€
+https://ardes.bg/product/asrock-b650-steel-legend-wifi-90-mxbn90-a0uayz-427561
+
+## RAM
+Kingston Fury Beast DDR5 6000 32GB - 499€
+https://ardes.bg/product/32gb-ddr5-6000-kingston-fury-beast-amd-expo-kf560c36bbe-32-308909
+
+## Storage
+ADATA HV620S 2TB - 99€
+https://ardes.bg/product/2tb-adata-hv620s-ahv620s-2tu3-cbk-103788
+
+## GPU
+Zotac RTX 5060 Twin Edge OC - 430€
+https://ardes.bg/product/zotac-geforce-rtx-5060-8gb-twin-edge-oc-dlss-4-zt-b50600h-10m-479220
+
+## Power Supply
+MSI MAG A850GL 850W - 112€
+https://ardes.bg/product/850w-msi-mag-a850gl-80-gold-306-7zp8a11-ce0-351492
+
+## Case
+Fractal Design Pop Air RGB - 92€
+https://ardes.bg/product/fractal-design-pop-air-rgb-oranzhev-cheren-fd-c-por1a-05-300135
+
+## Monitor
+Alienware AW3425DWM - 359€
+https://ardes.bg/product/850w-msi-mag-a850gl-80-gold-306-7zp8a11-ce0-351492
+
+## Keyboard
+SteelSeries Apex 3 - 56€
+https://ardes.bg/product/steelseries-apex-3-cheren-steel-key-64795-169125
+
+## Mouse
+Razer Basilisk V3 - 81€
+https://ardes.bg/product/razer-basilisk-v3-cheren-rz01-04000100-r3m1-225282
+
+---
+
+## Total Price
+2122€
