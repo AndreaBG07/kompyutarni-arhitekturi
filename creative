@@ -1,0 +1,230 @@
+components.md
+# Video Editing / 3D Design PC - Components
+
+## CPU
+- Model: AMD Ryzen 9 7900X
+- Cores/Threads: 12 Cores / 24 Threads
+- Base Clock: 4.7 GHz
+- Boost Clock: 5.6 GHz
+- TDP: 170W
+
+## CPU Cooler
+- Model: be quiet! Dark Rock Elite
+- Type: Air Cooler
+- Cooling: Dual Tower
+- RGB Support: Yes
+
+## Motherboard
+- Model: ASRock B650 Steel Legend WiFi
+- Chipset: AMD B650
+- Form Factor: ATX
+- Memory Slots: 4x DDR5 DIMM
+- Storage Slots: M.2 NVMe + SATA
+
+## RAM
+- Model: G.SKILL Flare X5 AMD EXPO
+- Type: DDR5
+- Capacity: 32GB (2x16GB)
+- Frequency: 6000 MHz
+
+## Storage
+- Model: WD_BLACK SN7100
+- Type: NVMe SSD
+- Capacity: 2TB
+- Interface: PCIe Gen4
+
+## GPU
+- Model: GIGABYTE GeForce RTX 5070 AERO OC
+- VRAM: 12GB GDDR7
+- TDP: 250W
+- Features: DLSS 4, Ray Tracing
+
+## Power Supply
+- Model: Corsair CX750
+- Power: 750W
+- Certification: 80+ Bronze
+
+## Case
+- Model: Chieftec Pro Midi TG
+- Form Factor: Mid Tower
+- Cooling: Mesh airflow design
+
+## Monitor
+- Model: LG 27UP650P-W
+- Size: 27"
+- Resolution: 3840x2160
+- Panel Type: IPS
+- Refresh Rate: 60Hz
+
+## Keyboard
+- Model: Logitech MK295 Silent
+
+## Mouse
+- Model: Included in Logitech MK295 Combo
+
+justification.md
+# Video Editing / 3D Design PC - Justification
+
+## CPU
+The AMD Ryzen 9 7900X was selected because it provides excellent multi-core performance for video editing and 3D rendering.
+Its 12 cores and 24 threads are ideal for professional workloads and multitasking.
+
+### Alternative Component
+AMD Ryzen 9 7900 offers similar performance with lower power consumption.
+
+### Future Upgrade
+AMD Ryzen 9 9950X3D would significantly improve rendering and workstation performance.
+
+---
+
+## CPU Cooler
+The be quiet! Dark Rock Elite was selected because it provides strong cooling performance with low noise levels.
+It is suitable for high-performance Ryzen processors.
+
+### Alternative Component
+Noctua NH-D15 chromax.black provides similar premium cooling performance.
+
+### Future Upgrade
+Corsair iCUE LINK TITAN 360 RX RGB would improve cooling efficiency during heavy rendering.
+
+---
+
+## Motherboard
+The ASRock B650 Steel Legend WiFi motherboard was selected because it supports DDR5 memory and modern Ryzen processors.
+It also provides WiFi connectivity and future upgrade support.
+
+### Alternative Component
+MSI B650M PROJECT ZERO offers cleaner cable management and modern design.
+
+### Future Upgrade
+GIGABYTE B850 AORUS ELITE WIFI7 provides better VRM cooling and next-generation connectivity.
+
+---
+
+## RAM
+32GB DDR5 6000MHz memory was selected because it provides enough capacity for editing software and multitasking.
+The high frequency improves rendering and preview performance.
+
+### Alternative Component
+Corsair VENGEANCE DDR5 6000 provides similar performance.
+
+### Future Upgrade
+64GB DDR5 memory would improve large project workflows and 3D rendering.
+
+---
+
+## Storage
+The WD_BLACK SN7100 2TB SSD was selected because it provides fast read and write speeds for large media files.
+It is suitable for professional editing and rendering applications.
+
+### Alternative Component
+Samsung 990 PRO offers premium SSD performance and reliability.
+
+### Future Upgrade
+4TB Samsung 990 PRO would provide additional high-speed storage for large projects.
+
+---
+
+## GPU
+The RTX 5070 AERO OC was selected because it accelerates rendering, video editing, and AI workloads.
+Its 12GB VRAM is suitable for modern creative applications.
+
+### Alternative Component
+ASUS RTX 5070 DUAL OC provides similar performance at a lower price.
+
+### Future Upgrade
+RTX 5070 Ti would improve rendering and GPU acceleration performance.
+
+---
+
+## Power Supply
+The Corsair CX750 750W PSU was selected because it provides enough power for workstation components.
+It also allows future GPU upgrades.
+
+### Alternative Component
+be quiet! SYSTEM POWER 11 offers improved efficiency and quieter operation.
+
+### Future Upgrade
+Seasonic Focus GX-750 provides premium efficiency and reliability.
+
+---
+
+## Case
+The Chieftec Pro Midi TG case was selected because it provides good airflow and enough space for workstation components.
+
+### Alternative Component
+Corsair FRAME 4000D RS ARGB offers improved airflow and modern aesthetics.
+
+### Future Upgrade
+HYTE Y40 provides premium airflow and showcase design.
+
+---
+
+## Monitor
+The LG 27UP650P-W monitor was selected because of its 4K IPS panel and accurate colors.
+It is suitable for video editing and content creation.
+
+### Alternative Component
+Dell UltraSharp U2725QE offers higher refresh rate and premium image quality.
+
+### Future Upgrade
+Dual-monitor setup would improve productivity and editing workflow.
+
+---
+
+## Keyboard and Mouse
+The Logitech MK295 Silent combo was selected because it provides quiet and comfortable operation for long working sessions.
+
+### Alternative Component
+Logitech MX Keys S and MX Master 3S provide premium productivity features.
+
+### Future Upgrade
+Logitech MX Mechanical and MX Master 3S would improve workflow and comfort.
+
+prices-bg.md
+# Video Editing / 3D Design PC - Prices from Bulgarian Store
+
+## CPU
+AMD Ryzen 9 7900X - 327€
+https://ardes.bg/product/amd-ryzen-9-7900x-4-7-ghz-100-100000589wof-293579
+
+## CPU Cooler
+be quiet! Dark Rock Elite - 113€
+https://ardes.bg/product/be-quiet-dark-rock-elite-bk037-366104
+
+## Motherboard
+ASRock B650 Steel Legend WiFi - 179€
+https://ardes.bg/product/asrock-b650-steel-legend-wifi-90-mxbn90-a0uayz-427561
+
+## RAM
+G.SKILL Flare X5 DDR5 6000 32GB - 617€
+https://ardes.bg/product/2x16gb-ddr5-6000-g-skill-flare-x5-amd-expo-f5-6000j3636f16gx2-fx5-377294
+
+## Storage
+WD_BLACK SN7100 2TB - 319€
+https://ardes.bg/product/2tb-ssd-wd-black-sn7100-powered-by-sandisk-wds200t4x0e-00cja0-457083
+
+## GPU
+GIGABYTE RTX 5070 AERO OC - 855€
+https://ardes.bg/product/gigabyte-geforce-rtx-5070-12gb-aero-oc-dlss-4-gv-n5070aero-oc-12gd-465813
+
+## PSU
+Corsair CX750 - 74€
+https://ardes.bg/product/750w-corsair-cx750-80-plus-bronze-cp-9020279-eu-376709
+
+## Case
+Chieftec Pro Midi TG - 42€
+https://ardes.bg/product/chieftec-pro-midi-tg-cheren-as-02b-tg-op-483443
+
+## Monitor
+LG 27UP650P-W - 269€
+https://ardes.bg/product/27-lg-27up650p-w-27up650k-w-467156
+
+## Keyboard and Mouse
+Logitech MK295 Silent - 45€
+https://ardes.bg/product/logitech-mk295-silent-cheren-920-009800-185389
+
+---
+
+## Total Price
+2521€
