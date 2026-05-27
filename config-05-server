@@ -1,0 +1,189 @@
+components.md
+  # Home Server / NAS PC - Components
+
+## CPU
+- Model: Intel Core i3-12100
+- Cores/Threads: 4 Cores / 8 Threads
+- Base Clock: 3.3 GHz
+- Boost Clock: 4.3 GHz
+- TDP: 60W
+
+## Motherboard
+- Model: ASUS PRIME B760M-A WIFI D4
+- Chipset: Intel B760
+- Form Factor: Micro-ATX
+- Memory Slots: 4x DDR4 DIMM
+- Storage Slots: M.2 NVMe + SATA
+
+## RAM
+- Model: Corsair Vengeance LPX
+- Type: DDR4
+- Capacity: 32GB
+- Frequency: 3600 MHz
+
+## Storage
+- Model: WD Red Plus
+- Type: NAS HDD
+- Capacity: 8TB
+- Interface: SATA III
+
+## GPU
+- Integrated Intel UHD Graphics
+- VRAM: Shared Memory
+- TDP: Included in CPU
+
+## Power Supply
+- Model: ASRock CL-550B
+- Power: 550W
+- Certification: 80+ Bronze
+
+## Case
+- Model: Fractal Design Node 804
+- Form Factor: Micro-ATX
+- Cooling: Optimized airflow for storage systems
+
+## Monitor
+- Model: Dell P2422H
+- Size: 23.8"
+- Resolution: 1920x1080
+- Panel Type: IPS
+- Refresh Rate: 60Hz
+
+## Keyboard
+- Model: Logitech MK295 Silent
+
+## Mouse
+- Model: Included in Logitech MK295 Combo
+
+justification.md
+# Home Server / NAS PC - Justification
+
+## CPU
+The Intel Core i3-12100 was selected because it provides efficient performance and low power consumption.
+It is suitable for NAS services, backups, and file sharing.
+
+### Alternative Component
+AMD Ryzen 5 5600G provides more cores and integrated graphics performance.
+
+### Future Upgrade
+Intel Core i5-13500 would improve virtualization and multitasking performance.
+
+---
+
+## Motherboard
+The ASUS PRIME B760M-A WIFI D4 motherboard was selected because it provides stable performance and multiple storage options.
+It also includes WiFi connectivity for flexible setup.
+
+### Alternative Component
+ASUS PRIME B550M-A-II WIFI supports AMD processors and similar features.
+
+### Future Upgrade
+MSI MAG Z790 TOMAHAWK WIFI provides more expansion and connectivity options.
+
+---
+
+## RAM
+32GB DDR4 memory was selected because it provides stable multitasking for server applications and file management.
+
+### Alternative Component
+Crucial 32GB DDR4 offers similar capacity and reliability.
+
+### Future Upgrade
+DDR5 memory would improve future server performance and bandwidth.
+
+---
+
+## Storage
+The WD Red Plus 8TB HDD was selected because it is optimized for NAS systems and 24/7 operation.
+It provides reliable long-term storage for backups and files.
+
+### Alternative Component
+Seagate IronWolf Pro 8TB provides similar NAS-focused reliability.
+
+### Future Upgrade
+WD Gold 10TB would provide additional storage capacity and enterprise-grade reliability.
+
+---
+
+## Power Supply
+The ASRock CL-550B PSU was selected because it provides enough power for a home server system with storage drives.
+
+### Alternative Component
+Corsair CX550 offers improved efficiency and reliability.
+
+### Future Upgrade
+Corsair RM650e would improve efficiency and support additional drives.
+
+---
+
+## Case
+The Fractal Design Node 804 case was selected because it supports multiple storage drives and provides good airflow.
+It is suitable for compact NAS builds.
+
+### Alternative Component
+Fractal Design Epoch XL provides larger interior space.
+
+### Future Upgrade
+A larger NAS-focused case could support additional hard drives.
+
+---
+
+## Monitor
+The Dell P2422H monitor was selected because it provides reliable image quality for system monitoring and management.
+
+### Alternative Component
+AOC 24B3CF2 offers a higher refresh rate and modern IPS panel.
+
+### Future Upgrade
+ASUS VT229H touchscreen monitor could improve server management usability.
+
+---
+
+## Keyboard and Mouse
+The Logitech MK295 Silent combo was selected because it provides quiet and comfortable operation.
+
+### Alternative Component
+The white version of the same combo offers identical functionality.
+
+### Future Upgrade
+Logitech MK540 Advanced would improve typing comfort and wireless connectivity.
+
+prices-bg.md
+# Home Server / NAS PC - Prices from Bulgarian Store
+
+## CPU
+Intel Core i3-12100 - 169€
+https://ardes.bg/product/intel-core-i3-12100-3-3ghz-bx8071512100-258322
+
+## Motherboard
+ASUS PRIME B760M-A WIFI D4 - 127€
+https://ardes.bg/product/asus-prime-b760m-a-wifi-d4-90mb1cx0-m0eay0-308935
+
+## RAM
+Corsair Vengeance LPX 32GB DDR4 3600 - 299€
+https://ardes.bg/product/2x16gb-ddr4-3600-corsair-vengeance-lpx-cmk32gx4m2d3600c18-260404
+
+## Storage
+WD Red Plus 8TB - 336€
+https://ardes.bg/product/8tb-wd-red-plus-wd80efpx-430715
+
+## PSU
+ASRock CL-550B - 60€
+https://ardes.bg/product/550w-asrock-cl-550b-cl-550b-459113
+
+## Case
+Fractal Design Node 804 - 107€
+https://ardes.bg/product/fractal-design-node-804-cheren-fd-ca-node-804-bl-w-63081
+
+## Monitor
+Dell P2422H - 129€
+https://ardes.bg/product/23-8-dell-p2422h-renoviran-produkt-80109429-327687
+
+## Keyboard and Mouse
+Logitech MK295 Silent - 45€
+https://ardes.bg/product/logitech-mk295-silent-cheren-920-009800-185389
+
+---
+
+## Total Price
+1272€
