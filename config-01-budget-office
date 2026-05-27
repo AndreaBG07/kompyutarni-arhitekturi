@@ -1,0 +1,174 @@
+components.md
+
+## CPU
+- Model: Intel Core i3-12100
+- Cores/Threads: 4 Cores / 8 Threads
+- Base Clock: 3.3 GHz
+- Boost Clock: 4.3 GHz
+- TDP: 60W
+
+## Motherboard
+- Model: MSI PRO B760M-P DDR4
+- Chipset: Intel B760
+- Form Factor: Micro-ATX
+- Memory Slots: 2x DDR4 DIMM
+- Storage Slots: M.2 NVMe + SATA
+
+## RAM
+- Model: ADATA XPG GAMMIX D35
+- Type: DDR4
+- Capacity: 16GB
+- Frequency: 3200 MHz
+
+## Storage
+- Model: Lexar NM620
+- Type: NVMe SSD
+- Capacity: 512GB
+- Interface: PCIe Gen3 x4
+
+## GPU
+- Integrated Intel UHD Graphics
+- VRAM: Shared Memory
+- TDP: Included in CPU
+
+## Power Supply
+- Model: Gigabyte P450B
+- Power: 450W
+- Certification: 80+ Bronze
+
+## Case
+- Model: Deepcool MATREXX 30 SI
+- Form Factor: Micro-ATX
+- Cooling: Front airflow with fan support
+
+## Monitor
+- Model: MSI PRO MP251
+- Size: 24.5"
+- Resolution: 1920x1080
+- Panel Type: IPS
+- Refresh Rate: 100Hz
+
+## Keyboard
+- Model: Logitech K120
+
+## Mouse
+- Model: Logitech M90
+
+  
+justification.md
+  # Budget Office PC - Justification
+
+## CPU
+The Intel Core i3-12100 was selected because it offers excellent office performance at a low price. 
+Its 4 cores and high single-core speed are ideal for document work, web browsing, and multitasking.
+
+### Alternative Component
+Intel Core i3-14100 was considered as an alternative because it offers slightly better performance and newer architecture.
+
+### Future Upgrade
+A future upgrade to Intel Core i5-14400 would improve multitasking and productivity performance.
+
+---
+
+## Motherboard
+The MSI PRO B760M-P DDR4 motherboard was selected because it supports modern Intel processors and DDR4 memory.
+It also provides enough connectivity for office use and future storage upgrades.
+
+### Alternative Component
+Gigabyte B760M D3HP WIFI6 offers integrated WiFi and additional connectivity features.
+
+### Future Upgrade
+A higher-end B760 motherboard with more M.2 slots can be added in the future.
+
+---
+
+## RAM
+16GB DDR4 memory was selected because it is sufficient for office applications and multitasking.
+The 3200MHz speed provides stable and responsive system performance.
+
+### Alternative Component
+Kingston Fury Beast 2x8GB DDR4 3200MHz provides similar performance with dual-channel configuration.
+
+### Future Upgrade
+Upgrading to 32GB RAM would improve performance for heavier workloads.
+
+---
+
+## Storage
+The Lexar NM620 512GB NVMe SSD was selected because it provides fast boot times and quick file access.
+It is suitable for office software and everyday use.
+
+### Alternative Component
+Gigabyte 4000E 500GB SSD offers similar storage capacity and NVMe performance.
+
+### Future Upgrade
+A 1TB NVMe SSD could be added for additional storage space.
+
+---
+
+## Power Supply
+The Gigabyte P450B 450W PSU was selected because it provides enough power for the system while maintaining efficiency.
+
+### Alternative Component
+Corsair CX550 offers higher wattage and improved reliability.
+
+### Future Upgrade
+A 550W or 650W PSU may be needed if a dedicated GPU is added later.
+
+---
+
+## Monitor
+The MSI PRO MP251 monitor was selected because of its IPS panel and 100Hz refresh rate.
+It provides comfortable viewing angles and smooth image quality for office work.
+
+### Alternative Component
+ViewSonic VA2432-MHD-3 provides similar image quality and refresh rate.
+
+### Future Upgrade
+A 27-inch QHD monitor would improve workspace and productivity.
+
+prices-bg.md
+  # Budget Office PC - Prices from Bulgarian Store
+
+## CPU
+Intel Core i3-12100 - 169€
+https://ardes.bg/product/intel-core-i3-12100-3-3ghz-bx8071512100-258322
+
+## Motherboard
+MSI PRO B760M-P DDR4 - 92€
+https://ardes.bg/product/msi-pro-b760m-p-ddr4-911-7e02-001-307974
+
+## RAM
+ADATA XPG GAMMIX D35 16GB DDR4 3200 - 145€
+https://ardes.bg/product/16gb-ddr4-3200-adata-xpg-gammix-d35-ax4u320016g16a-sbkd35-328797
+
+## Storage
+Lexar NM620 512GB SSD - 109€
+https://ardes.bg/product/512gb-ssd-lexar-nm620-lnm620x512g-rnnng-206272
+
+## Case
+Deepcool MATREXX 30 SI - 27€
+https://ardes.bg/product/fractal-design-core-1100-cheren-fd-ca-core-1100-bl-65999
+
+## PSU
+Gigabyte P450B 450W - 45€
+https://ardes.bg/product/450w-gigabyte-p450b-ga-ps-p450b-180068
+
+## Monitor
+MSI PRO MP251 - 94€
+https://ardes.bg/product/24-5-msi-pro-mp251-9s6-3pc2cm-002-378087
+
+## Keyboard
+Logitech K120 - 13€
+https://ardes.bg/product/logitech-k120-oem-cheren-920-002644-45532
+
+## Mouse
+Logitech M90 - 6.99€
+https://ardes.bg/product/logitech-m90-cheren-910-001793-315531
+
+---
+
+## Total Price
+700.99€
+
+Screenshots/
